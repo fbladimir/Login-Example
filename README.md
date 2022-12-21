@@ -10,7 +10,7 @@
 ### Login Screen 
 
 
-#### Register Screen 
+### Register Screen 
 
 
 ### Successful Login/Register Screen 
