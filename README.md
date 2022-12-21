@@ -5,7 +5,8 @@
 
 
 ### Main Screen 
-<img src="https://user-images.githubusercontent.com/67939160/208821360-c1b23b46-10cf-4dca-a2a5-fdde6e29aaa7.png" width:"200" height:"200" /> 
+
+<img width="246" alt="main" src="https://user-images.githubusercontent.com/67939160/208821887-61738a8c-f1b4-49cd-8b17-a555600d4079.png">
 
 
 
