@@ -1,7 +1,7 @@
 # Login & Register created with Swift
 
 
-## Simple login and create account application. Created with Swift and Firebase. 
+#### Simple login and create account application. Created with Swift and Firebase. 
 
 
 ### Main Screen 
