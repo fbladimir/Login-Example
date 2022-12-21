@@ -25,3 +25,10 @@
 <img width="246" alt="login_success" src="https://user-images.githubusercontent.com/67939160/208822079-173d387b-b6eb-40fa-a1b6-29ce63bb3f19.png">
 
 <img width="246" alt="created_success" src="https://user-images.githubusercontent.com/67939160/208822086-128d3060-6921-477b-89df-2239f036ce84.png">
+
+## Technology Used 
+
+<img width="150" alt="swift" src="https://user-images.githubusercontent.com/67939160/208822417-8df2ff84-db82-474d-997f-d8177c17f274.png">
+
+<img width="150" alt="firebase" src="https://user-images.githubusercontent.com/67939160/208822624-da5884ab-33cc-4085-a6df-14ab36a5de67.png">
+
